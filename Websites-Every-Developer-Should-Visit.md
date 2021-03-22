@@ -1,4 +1,4 @@
-# 12 websites every developer should follow Seedling
+# 12 websites every developer should follow.
 
 1. Stack Exchange
 2. GitHub
